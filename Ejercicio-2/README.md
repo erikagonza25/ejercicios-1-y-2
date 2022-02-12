@@ -14,8 +14,6 @@ Creación de una pagina web que muestre los resultados del JSON creado al cruzar
 
 ### Resultados
 
-Enlace publicado
-
 #### Destokp
 
 ![Screenshot](./imagenesReadme/1.png)

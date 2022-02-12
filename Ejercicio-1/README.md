@@ -14,8 +14,6 @@ Creación de una pagina web que reciba un rango de números entre A y B y a part
 
 ### Resultados
 
-Enlace publicado
-
 #### Destokp
 
 ![Screenshot](./imagenesReadme/1.png)
