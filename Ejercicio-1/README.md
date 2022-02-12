@@ -32,6 +32,6 @@ Enlace publicado
 
 ### Instalación Local
 
-Realizamos un clon del proyecto, por medio de la consola, luego dentro del proyecto ejecutamos Live Server(es un servidor web que se monta en el puerto 5500)
+Realizamos un clon del proyecto, por medio de la consola, luego dentro del proyecto ejecutamos Live Server(es un servidor web que se monta en el puerto 5500).
 
-Para descargar Live Serve solo debe dirigirse a las Extensiones de Visual Studio Code
+Para descargar Live Serve solo debe dirigirse a las Extensiones de Visual Studio Code.
