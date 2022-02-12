@@ -27,8 +27,8 @@ Enlace publicado
 
 #### Mobile
 
-![Screenshot](./imagenesReadme/4)
-![Screenshot](./imagenesReadme/5)
+![Screenshot](./imagenesReadme/4.png)
+![Screenshot](./imagenesReadme/5.png)
 
 ### Instalación Local
 
