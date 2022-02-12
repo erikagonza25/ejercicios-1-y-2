@@ -10,7 +10,7 @@
 
 ## 1. Resumen del ejercicio
 
-Creación de una pagina web que reciba un rango de números entre A y B y a partir de este rango se muestran en pantalla los números primos.
+Creación de una pagina web que muestre los resultados del JSON creado al cruzar datos de 2 JSON ya existentes .
 
 ### Resultados
 
@@ -19,16 +19,14 @@ Enlace publicado
 #### Destokp
 
 ![Screenshot](./imagenesReadme/1.png)
-![Screenshot](./imagenesReadme/2.png)
 
 ##### Tambien puede visualizar el resultado en consola:
 
-![Screenshot](./imagenesReadme/3.png)
+![Screenshot](./imagenesReadme/2.png)
 
 #### Mobile
 
-![Screenshot](./imagenesReadme/4)
-![Screenshot](./imagenesReadme/5)
+![Screenshot](./imagenesReadme/3.png)
 
 ### Instalación Local
 
